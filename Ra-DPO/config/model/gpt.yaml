@@ -1,0 +1,6 @@
+defaults:
+  - base_model
+
+name_or_path: null
+block_name: GPT2Block
+activation_checkpointing: ture # doesn't work with pythia
